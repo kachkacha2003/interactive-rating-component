@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kachkacha2003/interactive-rating-component.git/static/css/main.7598a66f.css",
+    "main.js": "/kachkacha2003/interactive-rating-component.git/static/js/main.663487ea.js",
+    "static/media/thanks.svg": "/kachkacha2003/interactive-rating-component.git/static/media/thanks.d74a66b551b99ae110b5362ed63106bf.svg",
+    "index.html": "/kachkacha2003/interactive-rating-component.git/index.html",
+    "static/media/icon-star.svg": "/kachkacha2003/interactive-rating-component.git/static/media/icon-star.12766a8d207af861a70f92500634c8be.svg",
+    "main.7598a66f.css.map": "/kachkacha2003/interactive-rating-component.git/static/css/main.7598a66f.css.map",
+    "main.663487ea.js.map": "/kachkacha2003/interactive-rating-component.git/static/js/main.663487ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7598a66f.css",
+    "static/js/main.663487ea.js"
+  ]
+}
